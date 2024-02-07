@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":null,"properties":{"DamName":"Farrel","DamHtFt":21,"lon":-73.34351,"lat":44.11155}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Woodcock Site 2","DamHtFt":12,"lon":-73.33331,"lat":44.09043}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Woodcock Site 4","DamHtFt":13,"lon":-73.32281,"lat":44.09098}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Woodcock Site 3","DamHtFt":15,"lon":-73.32597,"lat":44.08972}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Jerome","DamHtFt":10,"lon":-73.34324,"lat":44.07875}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Brilyea West","DamHtFt":10,"lon":-73.35104,"lat":44.07475}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Brilyea East","DamHtFt":10,"lon":-73.34754,"lat":44.07384}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Norton","DamHtFt":22,"lon":-73.36178,"lat":44.0497}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Tetreault","DamHtFt":17,"lon":-73.32146,"lat":44.05518}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Warner Site 2","DamHtFt":10,"lon":-73.3307,"lat":44.04412}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Warner Site 3","DamHtFt":9,"lon":-73.33224,"lat":44.03979}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Martin","DamHtFt":8,"lon":-73.3586,"lat":44.06826}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Harte","DamHtFt":8,"lon":-73.36145,"lat":44.06646}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Norton Shallow Dike","DamHtFt":8,"lon":-73.36257,"lat":44.04805}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"McCuens Slang","DamHtFt":11,"lon":-73.39506,"lat":44.02421}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Woodcock Site 1","DamHtFt":11,"lon":-73.32561,"lat":44.08893}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Farrell North","DamHtFt":17,"lon":-73.34419,"lat":44.11207}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"DuBois Manure Pit","DamHtFt":16,"lon":-73.28851,"lat":44.08845}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Mud Creek","DamHtFt":9,"lon":-73.26997,"lat":44.96764}},
+{"type":"Feature","geometry":null,"properties":{"DamName":"Miller Pond","DamHtFt":12,"lon":-73.16434,"lat":43.04135}}
+]}
